@@ -11,9 +11,4 @@ Barre d'espace pour tirer			*
 						*
 Victoire si tout les aliens sont abattus	*
 						*
-						*
-						*
-						*
-						*
-						*
 /////////////////////////////////////////////////									
