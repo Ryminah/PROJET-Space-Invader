@@ -10,5 +10,5 @@ Action :					*
 Barre d'espace pour tirer			*
 						*
 Victoire si tout les aliens sont abattus	*
-						*
+Défaite si un alien touche le bas de l'écran						*
 /////////////////////////////////////////////////									
